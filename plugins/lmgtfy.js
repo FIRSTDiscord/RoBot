@@ -1,4 +1,4 @@
-var lmgtfy = require('lmgtfy')
+const lmgtfy = require('lmgtfy')
 
 module.exports = {
   name: 'lmgtfy',
